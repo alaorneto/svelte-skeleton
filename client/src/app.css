@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind componentes;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Inter var";
+    src: url(Inter-roman.var.woff2);
+}
